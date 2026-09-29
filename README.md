@@ -113,25 +113,19 @@ Marine ecosystems
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=amruthakanchumarthi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-alt="GitHub statistics"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruthakanchumarthi&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
-alt="Top languages"
-height="170"
+src="https://streak-stats.demolab.com/?user=amruthakanchumarthi&theme=tokyonight&hide_border=true"
+alt="GitHub contribution streak"
 />
 
 </div>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=amruthakanchumarthi&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <img src="https://img.shields.io/github/last-commit/amruthakanchumarthi/amruthakanchumarthi?style=flat-square&label=Profile%20updated" alt="Profile updated">
+  <img src="https://img.shields.io/github/repos/amruthakanchumarthi?style=flat-square&label=Public%20repositories" alt="Public repositories">
+  <img src="https://img.shields.io/github/followers/amruthakanchumarthi?style=flat-square&label=Followers" alt="Followers">
 </p>
+
+I keep this section intentionally lightweight so the profile doesn't depend on multiple external analytics services that can randomly stop rendering.
 
 🌱 GitHub Journey
 
